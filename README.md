@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HemanthM17&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sathishlucky391-lucky&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech – Machine Learning** (JNTU Hyderabad)  
+- 🎓 **MCA – MGU**  
 - 🤖 Passionate about **AI, ML & Data Science**  
 - 🌱 Currently working on **real-world AI projects**  
 - 💻 Building apps using **Python, Streamlit, MySQL**  
@@ -46,27 +46,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Loan Prediction System
-- 🧠 ML-powered loan approval prediction
-- 🖥️ Streamlit + MySQL + Python
-- 🔗 [View Project](https://loan-prediction-python.streamlit.app/)
-
-### 🔹 AI Code Review & Bug Detection
-- 🤖 AI-based code quality analyzer
-- 🌐 Web-based UI
-- 🔗 [Live Demo](https://ai-code-review-bug-prediction.lovable.app/)
-
----
-
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/hemanth-mede-profile/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:hemanthmede@gmail.com">
+  <a href="mailto:sathishlucky391@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
